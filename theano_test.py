@@ -187,7 +187,7 @@ for nd in range(num_dither):
 
 plt.plot(dithering_cost)
 plt.show()
-
+ 
 plt.plot(dithering_cost[-10000:])
 plt.show()
 
